@@ -103,6 +103,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SSubha16/-LeetCode-/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/SSubha16/-LeetCode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
