@@ -21,6 +21,7 @@
 | [0014-longest-common-prefix](https://github.com/SSubha16/-LeetCode-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SSubha16/-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 ## Sliding Window
 |  |
@@ -73,6 +74,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SSubha16/-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0010-regular-expression-matching) |
+| [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 ## Manacher
 |  |
@@ -146,6 +148,7 @@
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
@@ -165,4 +168,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 <!---LeetCode Topics End-->
