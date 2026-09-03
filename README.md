@@ -38,6 +38,7 @@
 | [0018-4sum](https://github.com/SSubha16/-LeetCode-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SSubha16/-LeetCode-/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/SSubha16/-LeetCode-/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -64,6 +65,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SSubha16/-LeetCode-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SSubha16/-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/SSubha16/-LeetCode-/tree/master/0031-next-permutation) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SSubha16/-LeetCode-/tree/master/0086-partition-list) |
 ## Dynamic Programming
