@@ -80,6 +80,7 @@
 | [0009-palindrome-number](https://github.com/SSubha16/-LeetCode-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/SSubha16/-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +156,8 @@
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
