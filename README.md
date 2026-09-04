@@ -48,6 +48,7 @@
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SSubha16/-LeetCode-/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
 |  |
@@ -62,6 +63,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SSubha16/-LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SSubha16/-LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -184,5 +186,6 @@
 |  |
 | ------- |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SSubha16/-LeetCode-/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
