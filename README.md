@@ -25,6 +25,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Sliding Window
 |  |
 | ------- |
@@ -89,6 +90,7 @@
 | [0010-regular-expression-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0010-regular-expression-matching) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
+| [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Manacher
 |  |
 | ------- |
