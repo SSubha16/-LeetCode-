@@ -9,6 +9,7 @@
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/SSubha16/-LeetCode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## String
@@ -48,6 +49,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SSubha16/-LeetCode-/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/SSubha16/-LeetCode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -186,6 +188,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/SSubha16/-LeetCode-/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 ## Bit Manipulation
 |  |
@@ -202,4 +205,16 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SSubha16/-LeetCode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3904-smallest-stable-index-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
+## Algorithm X
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
