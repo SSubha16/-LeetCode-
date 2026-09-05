@@ -26,6 +26,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SSubha16/-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/SSubha16/-LeetCode-/tree/master/0038-count-and-say) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Sliding Window
