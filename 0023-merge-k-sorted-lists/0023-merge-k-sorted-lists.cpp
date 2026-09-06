@@ -1,16 +1,31 @@
-class Solution {
-public:
-    ListNode* mergeKLists(vector<ListNode*>& lists) {
-        // Custom comparator for min-heap
-        auto compare = [](ListNode* a, ListNode* b) {
-            return a->val > b->val;
-        };
-        
-        priority_queue<ListNode*, vector<ListNode*>, decltype(compare)> minHeap(compare);
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 
-        // Push the head of each non-empty list into the min-heap
+#include <vector>
+#include <queue>
+
+class Solution {
+    struct Compare {
+        bool operator()(const ListNode* a, const ListNode* b) const {
+            return a->val > b->val; // Min-heap: smallest element has highest priority
+        }
+    };
+
+public:
+    ListNode* mergeKLists(std::vector<ListNode*>& lists) {
+        std::priority_queue<ListNode*, std::vector<ListNode*>, Compare> minHeap;
+
+        // Push the head of each non-empty list into the heap
         for (ListNode* head : lists) {
-            if (head != nullptr) {
+            if (head) {
                 minHeap.push(head);
             }
         }
@@ -18,7 +33,6 @@ public:
         ListNode dummy(0);
         ListNode* tail = &dummy;
 
-        // Continuously pop the smallest node and push its next node
         while (!minHeap.empty()) {
             ListNode* smallest = minHeap.top();
             minHeap.pop();
@@ -26,7 +40,7 @@ public:
             tail->next = smallest;
             tail = tail->next;
 
-            if (smallest->next != nullptr) {
+            if (smallest->next) {
                 minHeap.push(smallest->next);
             }
         }
