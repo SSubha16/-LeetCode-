@@ -23,6 +23,7 @@
 | [0012-integer-to-roman](https://github.com/SSubha16/-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/SSubha16/-LeetCode-/tree/master/0014-longest-common-prefix) |
+| [0022-generate-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SSubha16/-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
@@ -98,6 +99,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SSubha16/-LeetCode-/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -201,6 +203,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 ## Prefix Sum
 |  |
@@ -212,6 +215,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0039-combination-sum) |
 ## Algorithm X
