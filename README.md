@@ -29,6 +29,7 @@
 | [0030-substring-with-concatenation-of-all-words](https://github.com/SSubha16/-LeetCode-/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SSubha16/-LeetCode-/tree/master/0038-count-and-say) |
+| [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Sliding Window
@@ -107,6 +108,7 @@
 | [0022-generate-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 ## Manacher
@@ -128,10 +130,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/SSubha16/-LeetCode-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SSubha16/-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SSubha16/-LeetCode-/tree/master/0011-container-with-most-water) |
+| [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
 |  |
