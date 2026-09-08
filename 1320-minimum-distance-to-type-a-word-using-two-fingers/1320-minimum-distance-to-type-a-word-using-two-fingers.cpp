@@ -7,44 +7,41 @@ using namespace std;
 
 class Solution {
     int getDist(int a, int b) {
-        if (a == 26) return 0; // Free placement
-        int x1 = a / 6, y1 = a % 6;
-        int x2 = b / 6, y2 = b % 6;
-        return abs(x1 - x2) + abs(y1 - y2);
+        if (a == 26 || b == 26) return 0; // 26 represents a free initial placement
+        return abs(a / 6 - b / 6) + abs(a % 6 - b % 6);
     }
 
 public:
     int minimumDistance(string word) {
+        // dp[j] stores the minimum cost when one finger is at the last typed letter,
+        // and the other finger is at letter 'j' (26 means not placed yet).
         const int INF = 1e9;
-        // dp[other] = min cost where one finger is at current character, 
-        // and the other finger is at 'other' (26 means not placed yet).
         vector<int> dp(27, INF);
-        dp[26] = 0; // Initially, the other finger hasn't been used yet
+        
+        // After typing the first character (word[0]), one finger is at word[0],
+        // and the other finger has not been placed yet (state 26) at cost 0.
+        dp[26] = 0;
 
-        for (int i = 0; i < (int)word.size() - 1; ++i) {
-            int cur = word[i] - 'A';
-            int next = word[i + 1] - 'A';
-            int stepCost = getDist(cur, next);
+        for (int i = 1; i < word.length(); ++i) {
+            int prev = word[i - 1] - 'A';
+            int curr = word[i] - 'A';
+            vector<int> next_dp(27, INF);
 
-            vector<int> nextDp(27, INF);
+            for (int j = 0; j <= 26; ++j) {
+                if (dp[j] == INF) continue;
 
-            for (int other = 0; other <= 26; ++other) {
-                if (dp[other] == INF) continue;
+                // Option 1: Move the same finger (from prev to curr)
+                // The other finger remains at j.
+                next_dp[j] = min(next_dp[j], dp[j] + getDist(prev, curr));
 
-                // Option 1: Move the same finger that typed cur to next
-                nextDp[other] = min(nextDp[other], dp[other] + stepCost);
-
-                // Option 2: Move the other finger to next (current finger becomes the other finger)
-                nextDp[cur] = min(nextDp[cur], dp[other] + getDist(other, next));
+                // Option 2: Move the other finger (from j to curr)
+                // The new "other" finger is left at prev.
+                next_dp[prev] = min(next_dp[prev], dp[j] + getDist(j, curr));
             }
 
-            dp = move(nextDp);
+            dp = move(next_dp);
         }
 
-        int ans = INF;
-        for (int val : dp) {
-            ans = min(ans, val);
-        }
-        return ans;
+        return *min_element(dp.begin(), dp.end());
     }
 };
