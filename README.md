@@ -14,6 +14,7 @@
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## String
 |  |
 | ------- |
@@ -74,6 +75,7 @@
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3903-smallest-stable-index-i](https://github.com/SSubha16/-LeetCode-/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
@@ -132,6 +134,7 @@
 | [0012-integer-to-roman](https://github.com/SSubha16/-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
+| [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/SSubha16/-LeetCode-/tree/master/3870-count-commas-in-range) |
 ## Recursion
 |  |
