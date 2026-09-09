@@ -141,6 +141,7 @@
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/SSubha16/-LeetCode-/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -151,6 +152,7 @@
 | [0024-swap-nodes-in-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SSubha16/-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
+| [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
 ## Greedy
 |  |
 | ------- |
