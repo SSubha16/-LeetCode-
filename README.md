@@ -64,6 +64,7 @@
 | [0045-jump-game-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SSubha16/-LeetCode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -136,6 +137,7 @@
 | [0012-integer-to-roman](https://github.com/SSubha16/-LeetCode-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/SSubha16/-LeetCode-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3870-count-commas-in-range](https://github.com/SSubha16/-LeetCode-/tree/master/3870-count-commas-in-range) |
 ## Recursion
@@ -229,6 +231,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/SSubha16/-LeetCode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 ## Bit Manipulation
 |  |
