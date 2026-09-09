@@ -62,6 +62,7 @@
 | [0041-first-missing-positive](https://github.com/SSubha16/-LeetCode-/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/SSubha16/-LeetCode-/tree/master/0046-permutations) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -250,6 +251,7 @@
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/SSubha16/-LeetCode-/tree/master/0046-permutations) |
 ## Algorithm X
 |  |
 | ------- |
