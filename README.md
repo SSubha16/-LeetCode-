@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/SSubha16/-LeetCode-/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SSubha16/-LeetCode-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -32,6 +33,7 @@
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/SSubha16/-LeetCode-/tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -65,6 +67,7 @@
 | [0046-permutations](https://github.com/SSubha16/-LeetCode-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -166,6 +169,7 @@
 | [0016-3sum-closest](https://github.com/SSubha16/-LeetCode-/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/SSubha16/-LeetCode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Simulation
 |  |
