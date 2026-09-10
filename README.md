@@ -75,6 +75,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SSubha16/-LeetCode-/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -94,6 +95,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SSubha16/-LeetCode-/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
 |  |
@@ -118,6 +120,7 @@
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SSubha16/-LeetCode-/tree/master/0086-partition-list) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Dynamic Programming
 |  |
 | ------- |
