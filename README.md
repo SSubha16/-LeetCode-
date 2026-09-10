@@ -36,6 +36,7 @@
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Sliding Window
 |  |
@@ -79,6 +80,7 @@
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SSubha16/-LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
@@ -176,6 +178,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SSubha16/-LeetCode-/tree/master/0014-longest-common-prefix) |
+| [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 ## Sorting
 |  |
 | ------- |
