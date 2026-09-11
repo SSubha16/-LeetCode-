@@ -83,6 +83,7 @@
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SSubha16/-LeetCode-/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SSubha16/-LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -160,6 +161,7 @@
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/SSubha16/-LeetCode-/tree/master/3870-count-commas-in-range) |
@@ -195,6 +197,7 @@
 | [0018-4sum](https://github.com/SSubha16/-LeetCode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Simulation
 |  |
@@ -264,6 +267,7 @@
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
