@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SSubha16/-LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
@@ -83,6 +84,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
@@ -166,6 +168,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SSubha16/-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
+| [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
 | ------- |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
