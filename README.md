@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SSubha16/-LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
+| [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/SSubha16/-LeetCode-/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -84,6 +85,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
@@ -269,6 +271,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3903-smallest-stable-index-i](https://github.com/SSubha16/-LeetCode-/tree/master/3903-smallest-stable-index-i) |
