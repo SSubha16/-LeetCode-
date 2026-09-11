@@ -40,6 +40,7 @@
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/SSubha16/-LeetCode-/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2833-furthest-point-from-origin](https://github.com/SSubha16/-LeetCode-/tree/master/2833-furthest-point-from-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -318,4 +319,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
+## Counting
+|  |
+| ------- |
+| [2833-furthest-point-from-origin](https://github.com/SSubha16/-LeetCode-/tree/master/2833-furthest-point-from-origin) |
 <!---LeetCode Topics End-->
