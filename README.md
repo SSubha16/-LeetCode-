@@ -76,6 +76,7 @@
 | [0053-maximum-subarray](https://github.com/SSubha16/-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -201,6 +202,7 @@
 | [0018-4sum](https://github.com/SSubha16/-LeetCode-/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Simulation
@@ -346,4 +348,8 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
