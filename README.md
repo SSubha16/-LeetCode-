@@ -79,6 +79,7 @@
 | [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SSubha16/-LeetCode-/tree/master/0057-insert-interval) |
+| [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
@@ -274,6 +276,7 @@
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
