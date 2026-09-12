@@ -75,6 +75,7 @@
 | [0051-n-queens](https://github.com/SSubha16/-LeetCode-/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SSubha16/-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -145,6 +146,7 @@
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SSubha16/-LeetCode-/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
@@ -183,6 +185,7 @@
 | [0011-container-with-most-water](https://github.com/SSubha16/-LeetCode-/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SSubha16/-LeetCode-/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/SSubha16/-LeetCode-/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Trie
