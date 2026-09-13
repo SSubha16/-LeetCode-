@@ -168,6 +168,7 @@
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0060-permutation-sequence) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -182,6 +183,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/SSubha16/-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0044-wildcard-matching](https://github.com/SSubha16/-LeetCode-/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
+| [0060-permutation-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0060-permutation-sequence) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Greedy
 |  |
