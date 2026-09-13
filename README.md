@@ -136,6 +136,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SSubha16/-LeetCode-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/SSubha16/-LeetCode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0061-rotate-list](https://github.com/SSubha16/-LeetCode-/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SSubha16/-LeetCode-/tree/master/0086-partition-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -224,6 +225,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/SSubha16/-LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/SSubha16/-LeetCode-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/SSubha16/-LeetCode-/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/SSubha16/-LeetCode-/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/SSubha16/-LeetCode-/tree/master/0086-partition-list) |
 ## Heap (Priority Queue)
