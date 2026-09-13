@@ -152,6 +152,7 @@
 | [0045-jump-game-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SSubha16/-LeetCode-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SSubha16/-LeetCode-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
@@ -170,6 +171,7 @@
 | [0048-rotate-image](https://github.com/SSubha16/-LeetCode-/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0060-permutation-sequence) |
+| [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -361,4 +363,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
