@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SSubha16/-LeetCode-/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SSubha16/-LeetCode-/tree/master/0065-valid-number) |
+| [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -179,6 +180,7 @@
 | [0060-permutation-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -225,6 +227,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
@@ -300,6 +303,7 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 ## Bracket Sequences
 |  |
 | ------- |
