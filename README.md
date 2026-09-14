@@ -83,6 +83,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
+| [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -177,6 +178,7 @@
 | [0050-powx-n](https://github.com/SSubha16/-LeetCode-/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
