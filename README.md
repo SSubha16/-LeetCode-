@@ -39,6 +39,7 @@
 | [0058-length-of-last-word](https://github.com/SSubha16/-LeetCode-/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/SSubha16/-LeetCode-/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -85,6 +86,7 @@
 | [0063-unique-paths-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -228,6 +230,7 @@
 | [0054-spiral-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Linked List
