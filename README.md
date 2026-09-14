@@ -40,6 +40,7 @@
 | [0065-valid-number](https://github.com/SSubha16/-LeetCode-/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/SSubha16/-LeetCode-/tree/master/0071-simplify-path) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -278,6 +279,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/SSubha16/-LeetCode-/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/SSubha16/-LeetCode-/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
