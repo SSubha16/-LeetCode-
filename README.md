@@ -162,6 +162,7 @@
 | [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
@@ -183,6 +184,7 @@
 | [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -383,4 +385,8 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SSubha16/-LeetCode-/tree/master/0062-unique-paths) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
