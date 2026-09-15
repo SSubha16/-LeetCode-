@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/SSubha16/-LeetCode-/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/SSubha16/-LeetCode-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
@@ -89,6 +90,7 @@
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -304,6 +306,7 @@
 | [0059-spiral-matrix-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0059-spiral-matrix-ii) |
 | [0063-unique-paths-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
