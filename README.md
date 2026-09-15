@@ -92,6 +92,7 @@
 | [0068-text-justification](https://github.com/SSubha16/-LeetCode-/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -150,6 +151,7 @@
 | [0031-next-permutation](https://github.com/SSubha16/-LeetCode-/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/SSubha16/-LeetCode-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/SSubha16/-LeetCode-/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/SSubha16/-LeetCode-/tree/master/0086-partition-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -231,6 +233,7 @@
 | [0047-permutations-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Simulation
@@ -391,6 +394,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SSubha16/-LeetCode-/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 ## Combinatorics
 |  |
 | ------- |
@@ -399,4 +403,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
