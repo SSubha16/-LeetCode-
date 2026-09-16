@@ -45,6 +45,7 @@
 | [0071-simplify-path](https://github.com/SSubha16/-LeetCode-/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/SSubha16/-LeetCode-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/SSubha16/-LeetCode-/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/SSubha16/-LeetCode-/tree/master/0657-robot-return-to-origin) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/SSubha16/-LeetCode-/tree/master/2452-words-within-two-edits-of-dictionary) |
@@ -97,6 +98,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/SSubha16/-LeetCode-/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SSubha16/-LeetCode-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/SSubha16/-LeetCode-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -317,6 +319,7 @@
 | [0064-minimum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -353,6 +356,7 @@
 | [0052-n-queens-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/SSubha16/-LeetCode-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SSubha16/-LeetCode-/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
 | ------- |
@@ -370,6 +374,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
