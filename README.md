@@ -106,6 +106,7 @@
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0090-subsets-ii) |
+| [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -136,6 +137,7 @@
 | [0035-search-insert-position](https://github.com/SSubha16/-LeetCode-/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/SSubha16/-LeetCode-/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
 ## Divide and Conquer
