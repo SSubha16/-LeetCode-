@@ -205,6 +205,7 @@
 | [0066-plus-one](https://github.com/SSubha16/-LeetCode-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/SSubha16/-LeetCode-/tree/master/0089-gray-code) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -337,6 +338,7 @@
 | [0029-divide-two-integers](https://github.com/SSubha16/-LeetCode-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/SSubha16/-LeetCode-/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/SSubha16/-LeetCode-/tree/master/0089-gray-code) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -364,6 +366,7 @@
 | [0077-combinations](https://github.com/SSubha16/-LeetCode-/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/SSubha16/-LeetCode-/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/SSubha16/-LeetCode-/tree/master/0089-gray-code) |
 ## Algorithm X
 |  |
 | ------- |
