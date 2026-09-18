@@ -195,6 +195,7 @@
 | [0087-scramble-string](https://github.com/SSubha16/-LeetCode-/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/SSubha16/-LeetCode-/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Manacher
@@ -217,6 +218,7 @@
 | [0067-add-binary](https://github.com/SSubha16/-LeetCode-/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SSubha16/-LeetCode-/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/SSubha16/-LeetCode-/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/SSubha16/-LeetCode-/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/SSubha16/-LeetCode-/tree/master/3783-mirror-distance-of-an-integer) |
@@ -403,6 +405,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -418,6 +421,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -459,4 +463,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
