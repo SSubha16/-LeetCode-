@@ -409,6 +409,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -416,6 +417,7 @@
 | [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -427,6 +429,7 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -470,4 +473,5 @@
 | [0095-unique-binary-search-trees-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
