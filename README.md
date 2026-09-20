@@ -412,6 +412,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -436,6 +437,7 @@
 | [0099-recover-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -456,6 +458,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0101-symmetric-tree) |
+| [0102-binary-tree-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
