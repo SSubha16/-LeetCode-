@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/SSubha16/-LeetCode-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/SSubha16/-LeetCode-/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/SSubha16/-LeetCode-/tree/master/0076-minimum-window-substring) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
@@ -112,6 +113,7 @@
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/SSubha16/-LeetCode-/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0090-subsets-ii) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -152,6 +154,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SSubha16/-LeetCode-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/SSubha16/-LeetCode-/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/SSubha16/-LeetCode-/tree/master/0053-maximum-subarray) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/SSubha16/-LeetCode-/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/SSubha16/-LeetCode-/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 ## Two Pointers
@@ -415,6 +418,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -443,6 +447,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
