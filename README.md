@@ -432,6 +432,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -445,6 +446,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0112-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -469,6 +471,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0112-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -494,6 +497,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0112-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
