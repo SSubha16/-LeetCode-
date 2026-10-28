@@ -303,6 +303,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -445,6 +446,7 @@
 | [0113-path-sum-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -462,6 +464,7 @@
 | [0113-path-sum-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -490,6 +493,7 @@
 | [0113-path-sum-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -517,6 +521,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
