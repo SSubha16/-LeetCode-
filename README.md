@@ -119,6 +119,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0118-pascals-triangle) |
 | [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -210,6 +211,7 @@
 | [0096-unique-binary-search-trees](https://github.com/SSubha16/-LeetCode-/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/SSubha16/-LeetCode-/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/SSubha16/-LeetCode-/tree/master/0115-distinct-subsequences) |
+| [0118-pascals-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0118-pascals-triangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Manacher
