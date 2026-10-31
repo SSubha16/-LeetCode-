@@ -121,6 +121,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/SSubha16/-LeetCode-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0120-triangle) |
 | [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
@@ -214,6 +215,7 @@
 | [0115-distinct-subsequences](https://github.com/SSubha16/-LeetCode-/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/SSubha16/-LeetCode-/tree/master/0120-triangle) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Manacher
