@@ -228,6 +228,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SSubha16/-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSubha16/-LeetCode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/SSubha16/-LeetCode-/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [2463-minimum-total-distance-traveled](https://github.com/SSubha16/-LeetCode-/tree/master/2463-minimum-total-distance-traveled) |
 ## Manacher
@@ -467,6 +468,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -485,6 +487,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -514,6 +517,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/SSubha16/-LeetCode-/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/SSubha16/-LeetCode-/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/SSubha16/-LeetCode-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Union-Find
 |  |
@@ -574,4 +578,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SSubha16/-LeetCode-/tree/master/0069-sqrtx) |
+## DP on Trees
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
