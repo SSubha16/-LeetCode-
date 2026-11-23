@@ -20,6 +20,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/SSubha16/-LeetCode-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SSubha16/-LeetCode-/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [2615-sum-of-distances](https://github.com/SSubha16/-LeetCode-/tree/master/2615-sum-of-distances) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/SSubha16/-LeetCode-/tree/master/3488-closest-equal-element-queries) |
@@ -132,6 +133,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SSubha16/-LeetCode-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSubha16/-LeetCode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SSubha16/-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -529,6 +531,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
