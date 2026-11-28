@@ -135,6 +135,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/SSubha16/-LeetCode-/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SSubha16/-LeetCode-/tree/master/0130-surrounded-regions) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SSubha16/-LeetCode-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/SSubha16/-LeetCode-/tree/master/0704-binary-search) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -398,6 +399,7 @@
 | [0074-search-a-2d-matrix](https://github.com/SSubha16/-LeetCode-/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/SSubha16/-LeetCode-/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/SSubha16/-LeetCode-/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/SSubha16/-LeetCode-/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/SSubha16/-LeetCode-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -501,6 +503,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SSubha16/-LeetCode-/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/SSubha16/-LeetCode-/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/SSubha16/-LeetCode-/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -537,6 +540,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/SSubha16/-LeetCode-/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/SSubha16/-LeetCode-/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/SSubha16/-LeetCode-/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
@@ -563,6 +567,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0126-word-ladder-ii](https://github.com/SSubha16/-LeetCode-/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/SSubha16/-LeetCode-/tree/master/0127-word-ladder) |
+| [0130-surrounded-regions](https://github.com/SSubha16/-LeetCode-/tree/master/0130-surrounded-regions) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/SSubha16/-LeetCode-/tree/master/1559-detect-cycles-in-2d-grid) |
 ## Quicksort
